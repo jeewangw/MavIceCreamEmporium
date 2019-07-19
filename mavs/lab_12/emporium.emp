@@ -1,0 +1,145 @@
+MICE
+0.1
+#
+EMPORIUM
+Default
+200.85
+1
+#
+CONTAINER
+Cone
+0.25
+0.5
+0
+2
+Crispy airy delight
+#
+CONTAINER
+Waffle Cone
+0.35
+0.75
+0
+3
+Crunchy wrapped waffle cake
+#
+SCOOP
+Chocolate
+0.2
+0.5
+0
+Rich smooth chocolate ice cream
+#
+SCOOP
+Vanilla
+0.2
+0.5
+0
+Real vanilla bean ice cream
+#
+SCOOP
+Strawberry
+0.2
+0.5
+0
+Chunks of strawberry wrapped in vanilla ice cream
+#
+TOPPING
+Cherry
+0.1
+0.2
+0
+0
+Classic marichino cherry
+#
+TOPPING
+Chocolate Sauce
+0.1
+0.25
+0
+0
+Rich thick chocolate
+#
+TOPPING
+Whipped Cream
+0.1
+0.2
+0
+0
+Real sweet cream whipped to perfection
+#
+ORDER
+1
+1
+#
+CUSTOMER
+Ayush Karki
+LAPD
+817-555-7714
+#
+SERVER
+TBD
+TBD
+TBD
+0
+0
+#
+SERVING
+#
+CONTAINER
+Cone
+0.25
+0.5
+0
+2
+Crispy airy delight
+#
+SCOOP
+Vanilla
+0.2
+0.5
+0
+Real vanilla bean ice cream
+#
+SCOOP
+Vanilla
+0.2
+0.5
+0
+Real vanilla bean ice cream
+#
+END SERVING
+#
+END ORDER
+#
+SERVER
+Amit Khanal
+BBT
+817-555-1212
+8.25
+0
+#
+SERVER
+Rajesh Hamal
+Friends
+817-555-1213
+10.75
+0
+#
+SERVER
+Hemanta Sharma
+BWidowers
+817-555-1214
+15
+0
+#
+CUSTOMER
+Ayush Karki
+LAPD
+817-555-7714
+#
+CUSTOMER
+Pujan Budathoki
+Glitter
+817-555-2234
+#
+END EMPORIUM
